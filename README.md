@@ -1,7 +1,7 @@
 👋 Hey, I’m Shii108 
 👀 I love Web Development & breaking my code (accidentally) 
 🌱 Currently deep-diving into Vue.js
-💞️ Open to collaborating on anything fun
+💼 Open to collaborating on anything fun
 📫 Hit me up at sujalpoudel01@gmail.com 
 ⚡ Fun fact: I talk to my console like it understands me
 
